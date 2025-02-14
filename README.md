@@ -35,19 +35,3 @@ As a **Backend Developer and Blockchain Enthusiast**, I specialize in building s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaackodhiamboodera/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://isaack-odera.carrd.co/)
 
-
-
-# 📊 GitHub Stats:
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=derak-isaack&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=derak-isaack&theme=gotham&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derak-isaack&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
----
-[![](https://visitcount.itsvg.in/api?id=derak-isaack&icon=0&color=0)](https://visitcount.itsvg.in)
-
