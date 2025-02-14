@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Isaack!  <br><br>I'm a **Data Scientist & Machine Learning Expert** with a strong <br>background in developing **robust scalable ML models using Python**.<br> I've worked on several **ML and data-driven projects**, leveraging <br>big data technologies, predictive analytics, and AI to solve complex <br>problems.  <br><br>As a Blockchain Enthusiast, I have built decentralized <br>applications (dApps) with smart contracts. I’ve been exploring Rust <br>& Motoko to develop scalable blockchain solutions and decentralized<br>AI applications. 
+👋 Hello, I'm Isaack!  <br><br>I'm a **Data Scientist & Machine Learning Expert** with a strong background in developing **robust scalable ML models using Python**. I've worked on several **ML and data-driven projects**, leveraging big data technologies, predictive analytics, and AI to solve complex problems.  <br><br>As a Blockchain Enthusiast, I have built decentralized <br>applications (dApps) with smart contracts. I’ve been exploring **Rust & Motoko** to develop scalable blockchain solutions and decentralized AI applications. 
 
 
 ## 🌐 Socials:
