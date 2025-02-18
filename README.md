@@ -42,6 +42,7 @@ Additionally, I have hands-on experience with Large Language Models (LLMs), part
 - Design and develop **secure and decentralized blockchain applications**.
 - Focus on **backend architecture** to ensure robust and high-performance systems.
 - Combine **AI and blockchain** to create innovative decentralized AI solutions.
+- Build **RAG pipelines** using `NLP` and `vector databases` for advanced `vector similarity search` and intelligent retrieval systems.   
 
 
 ## 🌐 **Connect with Me**
